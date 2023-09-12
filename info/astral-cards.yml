@@ -1,0 +1,15 @@
+---
+object: set
+id: 9ca75b06-d9c5-4245-9bba-f2751f8d50a5
+code: past
+name: Astral Cards
+uri: https://api.scryfall.com/sets/9ca75b06-d9c5-4245-9bba-f2751f8d50a5
+scryfall_uri: https://scryfall.com/sets/past
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apast&unique=prints
+released_at: '1997-04-01'
+set_type: box
+card_count: 12
+digital: true
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/past.svg?1694404800
